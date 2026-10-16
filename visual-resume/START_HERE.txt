@@ -1,0 +1,15 @@
+Esmeralda Osei — Visual Resume
+
+Ready for GitHub Pages. The visual-resume folder is a complete standalone public website.
+It has four prepared recruiter Q&A answers, local fonts and the privacy-reviewed public CV.
+No server, AI account, credentials, build tools or visitor-question storage are required.
+
+To preserve the current portfolio, add the visual-resume folder to the root of the existing
+Data-Analysis-portfolio repository. Do not replace existing files. Once GitHub Pages builds,
+the new edition will be served below the existing portfolio address at /visual-resume/.
+
+Current status: Prepared and checked; not published. GitHub rejected the connected
+integration write with Resource not accessible by integration. No existing GitHub files
+were changed. The Replit deployment remains available.
+
+Included files are only the public edition. Do not add original CVs or private files.
